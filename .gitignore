@@ -1,0 +1,22 @@
+# MATLAB / Simulink generated files
+**/slprj/
+**/sccprj/
+**/codegen/
+**/*_ert_rtw/
+**/*_grt_rtw/
+**/*_rtw/
+*.slxc
+*.autosave
+*.asv
+*.m~
+*.slx.r*
+
+# Generated binaries and logs
+*.mex*
+*.log
+
+# Operating-system and editor metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
